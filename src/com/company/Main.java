@@ -19,7 +19,7 @@ public class Main {
         // adding features fot stars in the solar system
         FeatureStars FactX = new FeatureStars();
         FactX.size = "999999999m";
-        FactX.color = green;
+        FactX.color = "green";
         FactX.radius = "7398754653km";
     }
 }
