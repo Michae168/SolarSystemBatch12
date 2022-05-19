@@ -21,5 +21,11 @@ public class Main {
         FactX.size = "999999999m";
         FactX.color = "green";
         FactX.radius = "7398754653km";
+
+        // adding features for Planet2
+        Planet2Features P2 = new Planet2Features();
+        P2.name = "Red Dragon";
+        P2.size = "986578342798km";
+        P2.color = "Red";
     }
 }
